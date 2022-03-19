@@ -1,0 +1,4 @@
+CREATE TABLE INVENTORY (
+    productId VARCHAR PRIMARY KEY,
+    balance INT
+);

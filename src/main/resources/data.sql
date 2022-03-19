@@ -1,0 +1,1 @@
+INSERT INTO INVENTORY (productId, balance) VALUES ('A', 100);
